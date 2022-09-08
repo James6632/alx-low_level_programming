@@ -1,15 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - print the string in the put function
+ * main - Print my style
  *
- * Description: using the main function
- * this program prints "my mind
- *Return: 0
+ * Return: Always 0 (successful)
  */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
-	retun (0);
+	return (0);
 }
-
