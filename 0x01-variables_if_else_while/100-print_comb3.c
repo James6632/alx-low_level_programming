@@ -22,7 +22,7 @@ int main(void)
 			putchar(e);
 			if (c != 89)
 			{
-				putchar('.');
+				putchar(',');
 				putchar(' ');
 		}
 		}
