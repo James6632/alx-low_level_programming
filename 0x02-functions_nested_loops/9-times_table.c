@@ -33,4 +33,6 @@ void times_table(void)
 		}
 		_putchar('\n');
 	}
-}	
+}
+shopt - s extglob
+printf '%s\n' "${text%%+([[:space:]])}"
