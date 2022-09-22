@@ -11,10 +11,10 @@ int main(void)
 	/*
 	 * main - prits numbers
 	 * Remember:
-	 * you are not allowed to a
-	 * you are not allowed to modify p
-	 * only one statement is allowed
-	 * you are not allowed to code anything else than this line of code
+	 * - you are not allowed to a
+	 * - you are not allowed to modify p
+	 * - only one statement is allowed
+	 * - you are not allowed to code anything else than this line of code
 	 */
 	*(p + 5) = 98;
 	/* ...so that this prints 98\n */
